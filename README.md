@@ -13,3 +13,4 @@ python app.py
 To access your flask application open new tab in and paste the url:
 ```
 http://193.168.2.15:5000/predictdata
+```
